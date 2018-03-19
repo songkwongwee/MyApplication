@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <array name="sports">
+
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Soccer</item>
+
+    </array>
+
+</resources>
+
